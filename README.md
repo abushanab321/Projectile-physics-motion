@@ -22,4 +22,6 @@ HOW TO USE:
 	Curve: number? --- Amount of trajectory curve. Default: 0
 
 ---- Any argument marked with "?" is optional and will use its default value if omitted. ----
+
+
 3. Simply do Projectile:Fire
